@@ -1,0 +1,128 @@
+[
+    {
+        "id":1,
+        "nombre": "Pizza Napolitana",
+        "precio": 4200,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza.jpeg"
+        ]
+    },
+    {
+        "id": "2",
+        "nombre": "Pizzas de la Casa",
+        "precio": 3600,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza1.jpeg"
+        ]
+    },
+    {
+        "id": "3",
+        "nombre": "Pizzas Sin Tacc",
+        "precio": 3200,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza2.jpeg"
+        ]
+    },
+    {
+        "id": "4",
+        "nombre": "Pizzas Calabreza",
+        "precio": 2100,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza3.jpeg"
+        ]
+    },
+    {
+        "id": "5",
+        "nombre": "Pizzas Americana",
+        "precio": 2200,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza4.jpeg"
+        ]
+    },
+    {
+        "id": "6",
+        "nombre": "Pizzas Mozzarella",
+        "precio": 2400,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza5.jpeg"
+        ]
+    },
+    {
+        "id": "7",
+        "nombre": "Pizzas Choclo",
+        "precio": 2300,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza6.jpeg"
+        ]
+    },
+    {
+        "id": "8",
+        "nombre": "Pizzas Calzon",
+        "precio": 2400,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza7.jpeg"
+        ]
+    },
+    {
+        "id": "9",
+        "nombre": "Pizzas con Huevo",
+        "precio": 2340,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza8.jpeg"
+        ]
+    },
+    {
+        "id": "10",
+        "nombre": "Pizzas Jamon y Morrones",
+        "precio": 2380,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza9.jpeg"
+        ]
+    },
+    {
+        "id": "11",
+        "nombre": "Pizzas Rucula",
+        "precio": 2265,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza10.jpeg"
+        ]
+    },
+    {
+        "id": "12",
+        "nombre": "Pizzas Anchoas",
+        "precio": 2450,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza11.jpeg"
+        ]
+    },
+    {
+        "id": "13",
+        "nombre": "Pizza Fugazzeta",
+        "precio": 2460,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza12.jpeg"
+        ]
+    },
+    {
+        "id": "14",
+        "nombre": "Pizza Rellena",
+        "precio": 2410,
+        "categoria": "Pizzas",        
+        "thumbnails": [
+            "pizza13.jpeg"
+        ]
+    }
+]
